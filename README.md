@@ -14,8 +14,8 @@ It provides a quick way to get started with a simple front-end project.
 
 ## Usage
 ```bash
-git clone
-cd
+git clone https://github.com/schwastek/gulp-webpack-starter.git
+cd gulp-webpack-starter
 npm install
 npm run dev
 ```
